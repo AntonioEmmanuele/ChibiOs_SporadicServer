@@ -12,7 +12,10 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
-
+/*
+    This file is not part of the original ChibiOs 191.
+    Copyright (C) 2021 Antonio Emmanuele.
+*/
 /**
  * @file    chss.c
  * @brief   Sporadic Server module code.
